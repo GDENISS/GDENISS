@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GDENISS
+- 👋 Hi, I’m @GDENIS
 - 👀 I’m interested in geospatial works and spatial data science
 - 🌱 I’m currently learning machine learnig.
 - 💞️ I’m looking to collaborate on all matters data science.
